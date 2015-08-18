@@ -7,19 +7,27 @@ namespace Modul2
 		public static void Main (string[] args)
 		{
 			//Дефиниране на променливи
-			int a=0, b=0;
-			int sum = 0;
+			int a=0, b=0, c=0;
+		
 			//Събиране на числа
 			a=5;
 			b = 10;
-			sum = a + b;
-
-			//Писане в конзола
+			Console.Write (" a = ");
 			Console.Write (a);
-			Console.Write (" + ");
+			Console.Write (" b = ");
 			Console.Write (b);
-			Console.Write (" = ");
-			Console.WriteLine (sum);
+
+			//Смяна на стойностите
+			c=a;
+			a = b;
+			b=c;
+
+			Console.Write (" Смяна на стойностите -> a = ");
+			Console.Write (a);
+			Console.Write (" b = ");
+			Console.Write (b);
+		
+
 		}
 	}
 }
