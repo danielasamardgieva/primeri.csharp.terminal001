@@ -1,0 +1,4 @@
+C:\aula\primeri.csharp.terminal001\Modul2\Modul2\bin\Debug\Modul2.exe
+C:\aula\primeri.csharp.terminal001\Modul2\Modul2\bin\Debug\Modul2.pdb
+C:\aula\primeri.csharp.terminal001\Modul2\Modul2\obj\x86\Debug\Modul2.exe
+C:\aula\primeri.csharp.terminal001\Modul2\Modul2\obj\x86\Debug\Modul2.pdb
