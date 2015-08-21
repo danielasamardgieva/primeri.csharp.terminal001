@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadFromCommandLine", "Read
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZadachaString", "ZadachaString\ZadachaString.csproj", "{FC4C1984-BC3F-4BF1-AAC2-8BE326239756}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableProject", "TableProject\TableProject.csproj", "{CA56FF92-1E8D-4EEA-A8E8-BA7B6E3874F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -21,6 +23,10 @@ Global
 		{C982C54D-B9CB-439B-87C3-9F16597E7C93}.Debug|x86.Build.0 = Debug|x86
 		{C982C54D-B9CB-439B-87C3-9F16597E7C93}.Release|x86.ActiveCfg = Release|x86
 		{C982C54D-B9CB-439B-87C3-9F16597E7C93}.Release|x86.Build.0 = Release|x86
+		{CA56FF92-1E8D-4EEA-A8E8-BA7B6E3874F5}.Debug|x86.ActiveCfg = Debug|x86
+		{CA56FF92-1E8D-4EEA-A8E8-BA7B6E3874F5}.Debug|x86.Build.0 = Debug|x86
+		{CA56FF92-1E8D-4EEA-A8E8-BA7B6E3874F5}.Release|x86.ActiveCfg = Release|x86
+		{CA56FF92-1E8D-4EEA-A8E8-BA7B6E3874F5}.Release|x86.Build.0 = Release|x86
 		{FC4C1984-BC3F-4BF1-AAC2-8BE326239756}.Debug|x86.ActiveCfg = Debug|x86
 		{FC4C1984-BC3F-4BF1-AAC2-8BE326239756}.Debug|x86.Build.0 = Debug|x86
 		{FC4C1984-BC3F-4BF1-AAC2-8BE326239756}.Release|x86.ActiveCfg = Release|x86
