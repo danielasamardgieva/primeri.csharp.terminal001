@@ -23,7 +23,7 @@ namespace Modul3
 
 			string _format = "#0.00 m3";
 
-			Console.WriteLine ("\n\n -> a / b= " +(a/b).ToString (_format));;
+			Console.WriteLine ("\n\n -> a / b= " +(a/b).ToString (_format));
 		}
 	}
 }
