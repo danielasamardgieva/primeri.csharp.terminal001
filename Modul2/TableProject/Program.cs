@@ -22,9 +22,11 @@ namespace TableProject
 			//	 Извеждам ред по избор от клавиатурата (1-ви или 2-ри)
 					Console.Write("Кой ред искате да видите: ");
 					int _index = Convert.ToInt32 (Console.ReadLine ()) - 1;
-			Console.WriteLine((table[_index,(int)ti.ime])[0]+". "+table[_index,(int)ti.familia]+", "+table[_index,(int)ti.godini]);
+			Console.WriteLine((table[_index,(int)ti.ime])[0]+". "+
+				               table[_index,(int)ti.familia]+", "+
+				               table[_index,(int)ti.godini]);
 
-
+			Console.ReadKey ();
 
 //          Модул02 Видео08 Таблица		
 //          Декларирам таблица с 2 реда и 3 колони
