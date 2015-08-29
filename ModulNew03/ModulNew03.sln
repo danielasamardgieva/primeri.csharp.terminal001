@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModulNew03", "ModulNew03\ModulNew03.csproj", "{E003D04E-43EC-4DB5-ADE0-721F69C7DB05}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoolExplore", "BoolExplore\BoolExplore.csproj", "{FD26C70E-B8F3-4398-AD44-B994DBA16B6C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,5 +15,9 @@ Global
 		{E003D04E-43EC-4DB5-ADE0-721F69C7DB05}.Debug|x86.Build.0 = Debug|x86
 		{E003D04E-43EC-4DB5-ADE0-721F69C7DB05}.Release|x86.ActiveCfg = Release|x86
 		{E003D04E-43EC-4DB5-ADE0-721F69C7DB05}.Release|x86.Build.0 = Release|x86
+		{FD26C70E-B8F3-4398-AD44-B994DBA16B6C}.Debug|x86.ActiveCfg = Debug|x86
+		{FD26C70E-B8F3-4398-AD44-B994DBA16B6C}.Debug|x86.Build.0 = Debug|x86
+		{FD26C70E-B8F3-4398-AD44-B994DBA16B6C}.Release|x86.ActiveCfg = Release|x86
+		{FD26C70E-B8F3-4398-AD44-B994DBA16B6C}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
