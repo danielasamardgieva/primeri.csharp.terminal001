@@ -1,4 +1,4 @@
-﻿<Properties StartupItem="BoolSwitch\BoolSwitch.csproj">
+﻿<Properties StartupItem="BoolTryCatch\BoolTryCatch.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.Workbench ActiveDocument="BoolExplore\Program.cs">
     <Files>

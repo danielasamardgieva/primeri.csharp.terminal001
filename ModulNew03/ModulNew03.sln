@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoolExplore2", "BoolExplore
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoolSwitch", "BoolSwitch\BoolSwitch.csproj", "{6305E75B-5A32-47EA-9D31-E08008FCCFC1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoolTryCatch", "BoolTryCatch\BoolTryCatch.csproj", "{D1E25AAC-366D-4229-868A-09A442D41F0E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -23,6 +25,10 @@ Global
 		{9BD33E06-F00F-4780-8831-51D105015E24}.Debug|x86.Build.0 = Debug|x86
 		{9BD33E06-F00F-4780-8831-51D105015E24}.Release|x86.ActiveCfg = Release|x86
 		{9BD33E06-F00F-4780-8831-51D105015E24}.Release|x86.Build.0 = Release|x86
+		{D1E25AAC-366D-4229-868A-09A442D41F0E}.Debug|x86.ActiveCfg = Debug|x86
+		{D1E25AAC-366D-4229-868A-09A442D41F0E}.Debug|x86.Build.0 = Debug|x86
+		{D1E25AAC-366D-4229-868A-09A442D41F0E}.Release|x86.ActiveCfg = Release|x86
+		{D1E25AAC-366D-4229-868A-09A442D41F0E}.Release|x86.Build.0 = Release|x86
 		{E003D04E-43EC-4DB5-ADE0-721F69C7DB05}.Debug|x86.ActiveCfg = Debug|x86
 		{E003D04E-43EC-4DB5-ADE0-721F69C7DB05}.Debug|x86.Build.0 = Debug|x86
 		{E003D04E-43EC-4DB5-ADE0-721F69C7DB05}.Release|x86.ActiveCfg = Release|x86
