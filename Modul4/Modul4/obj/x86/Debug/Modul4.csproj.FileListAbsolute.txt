@@ -1,0 +1,4 @@
+C:\Users\Mitko\Documents\Projects\Modul4\Modul4\bin\Debug\Modul4.exe
+C:\Users\Mitko\Documents\Projects\Modul4\Modul4\bin\Debug\Modul4.pdb
+C:\Users\Mitko\Documents\Projects\Modul4\Modul4\obj\x86\Debug\Modul4.exe
+C:\Users\Mitko\Documents\Projects\Modul4\Modul4\obj\x86\Debug\Modul4.pdb

@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul4", "Modul4\Modul4.csproj", "{8E7BD052-7B21-4FF9-8ABC-5DAE2BB37ED4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VlaganeNaFor", "VlaganeNaFor\VlaganeNaFor.csproj", "{E182A9CA-AD7D-4381-95F0-0037032D8BE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E7BD052-7B21-4FF9-8ABC-5DAE2BB37ED4}.Debug|x86.ActiveCfg = Debug|x86
+		{8E7BD052-7B21-4FF9-8ABC-5DAE2BB37ED4}.Debug|x86.Build.0 = Debug|x86
+		{8E7BD052-7B21-4FF9-8ABC-5DAE2BB37ED4}.Release|x86.ActiveCfg = Release|x86
+		{8E7BD052-7B21-4FF9-8ABC-5DAE2BB37ED4}.Release|x86.Build.0 = Release|x86
+		{E182A9CA-AD7D-4381-95F0-0037032D8BE8}.Debug|x86.ActiveCfg = Debug|x86
+		{E182A9CA-AD7D-4381-95F0-0037032D8BE8}.Debug|x86.Build.0 = Debug|x86
+		{E182A9CA-AD7D-4381-95F0-0037032D8BE8}.Release|x86.ActiveCfg = Release|x86
+		{E182A9CA-AD7D-4381-95F0-0037032D8BE8}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
