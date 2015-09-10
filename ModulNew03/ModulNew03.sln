@@ -11,12 +11,18 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoolSwitch", "BoolSwitch\Bo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoolTryCatch", "BoolTryCatch\BoolTryCatch.csproj", "{D1E25AAC-366D-4229-868A-09A442D41F0E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorFor", "OperatorFor\OperatorFor.csproj", "{48766D59-7894-4A34-9D47-A7E2839F7103}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48766D59-7894-4A34-9D47-A7E2839F7103}.Debug|x86.ActiveCfg = Debug|x86
+		{48766D59-7894-4A34-9D47-A7E2839F7103}.Debug|x86.Build.0 = Debug|x86
+		{48766D59-7894-4A34-9D47-A7E2839F7103}.Release|x86.ActiveCfg = Release|x86
+		{48766D59-7894-4A34-9D47-A7E2839F7103}.Release|x86.Build.0 = Release|x86
 		{6305E75B-5A32-47EA-9D31-E08008FCCFC1}.Debug|x86.ActiveCfg = Debug|x86
 		{6305E75B-5A32-47EA-9D31-E08008FCCFC1}.Debug|x86.Build.0 = Debug|x86
 		{6305E75B-5A32-47EA-9D31-E08008FCCFC1}.Release|x86.ActiveCfg = Release|x86
