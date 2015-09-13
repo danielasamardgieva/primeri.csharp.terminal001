@@ -1,0 +1,4 @@
+C:\aula\primeri.csharp.terminal001\Modul4list\Modul4list\bin\Debug\Modul4list.exe
+C:\aula\primeri.csharp.terminal001\Modul4list\Modul4list\bin\Debug\Modul4list.pdb
+C:\aula\primeri.csharp.terminal001\Modul4list\Modul4list\obj\x86\Debug\Modul4list.exe
+C:\aula\primeri.csharp.terminal001\Modul4list\Modul4list\obj\x86\Debug\Modul4list.pdb
