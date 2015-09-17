@@ -1,0 +1,4 @@
+C:\aula\primeri.csharp.terminal001\Modul5\Modul5\bin\Release\Modul5.exe
+C:\aula\primeri.csharp.terminal001\Modul5\Modul5\bin\Release\Modul5.pdb
+C:\aula\primeri.csharp.terminal001\Modul5\Modul5\obj\x86\Release\Modul5.exe
+C:\aula\primeri.csharp.terminal001\Modul5\Modul5\obj\x86\Release\Modul5.pdb
