@@ -1,0 +1,4 @@
+C:\aula\primeri.csharp.terminal001\Modul5\factoriel\factoriel\bin\Debug\factoriel.exe
+C:\aula\primeri.csharp.terminal001\Modul5\factoriel\factoriel\bin\Debug\factoriel.pdb
+C:\aula\primeri.csharp.terminal001\Modul5\factoriel\factoriel\obj\x86\Debug\factoriel.exe
+C:\aula\primeri.csharp.terminal001\Modul5\factoriel\factoriel\obj\x86\Debug\factoriel.pdb
