@@ -1,6 +1,10 @@
 ﻿<Properties StartupItem="ClassExplorer\ClassExplorer.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassExplorer\Program.cs">
+    <Files>
+      <File FileName="ClassExplorer\Program.cs" Line="60" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
